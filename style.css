@@ -19,12 +19,10 @@ nav a{
 }
 
 .hero{
-    background-image:url("course.jpg");
-    background-size:cover;
-    background-position:center;
+    background:red;
     height:500px;
 
-    color:rgb(95, 39, 39);
+    color:white;
     text-align:center;
 
     display:flex;
